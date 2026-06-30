@@ -161,7 +161,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Kaustubh Deshmane**
+**Kaustubh Deshmane** </br> </br>
+Feel free to reach out!
 
 ---
 
