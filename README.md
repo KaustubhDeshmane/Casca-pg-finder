@@ -170,4 +170,8 @@ Feel free to reach out!
 
 ---
 
+<div align="center">
+
 ⭐ If you found this project useful, consider giving it a star!
+
+</div>
